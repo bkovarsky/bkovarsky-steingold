@@ -1,2 +1,4 @@
 # bkovarsky-steingold
-This is my new repository that I made using the Hello Word walkthrough
+# Brayden Kovarsky-Steingold
+# Course Section: OPS445NAA
+This is my new repository that I made using the Hello World walkthrough
